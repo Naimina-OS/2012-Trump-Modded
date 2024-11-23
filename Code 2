@@ -24768,9 +24768,11 @@ pk_dict = {
     "1": [
         "(+1 leftpoint)"
     ],
+    "2": [],
     "3": [
         "(+1 atheismpoint)"
     ],
+    "4": [],
     "27": [
         "(+1 atheismpoint)"
     ],
@@ -24796,10 +24798,10 @@ pk_dict = {
         "(+1 leftpoint)"
     ],
     "119": [
-        "(+1 benpoint)"
+        "(-1 benpoint)"
     ],
     "120": [
-        "(+1 leftpoint)"
+        "(-1 leftpoint)"
     ],
     "163": [
         "(+1 leftpoint)",
@@ -24810,11 +24812,22 @@ pk_dict = {
     ],
     "286": [
         "(+1 leftpoint)",
-        "(+1 benpoint)"
+        "(-1 benpoint)"
     ],
     "288": [
         "(+1 euro)",
         "(+1 benpoint)"
+    ],
+    "330": [
+        "(+1 blago)",
+        "(+2 atheismpoint)"
+    ],
+    "331": [
+        "(+1 giethner)"
+    ],
+    "332": [
+        "(+1 baldie)",
+        "(+3 atheismpoint)"
     ],
     "396": [
         "(+1 leftpoint)"
@@ -24829,8 +24842,12 @@ pk_dict = {
         "(+1 leftpoint)"
     ],
     "1467": [
-        "(+1 leftpoint)"
+        "(-1 leftpoint)"
     ],
+    "1679": [],
+    "1680": [],
+    "1681": [],
+    "1682": [],
     "1906": [
         "(+1 leftpoint)"
     ],
@@ -24838,16 +24855,28 @@ pk_dict = {
         "(+1 leftpoint)"
     ],
     "1930": [
-        "(+1 benpoint)"
+        "(-1 benpoint)"
     ],
     "1931": [
         "(+2 leftpoint)"
     ],
+    "1950": [],
+    "1951": [],
     "3005": [
         "(+1 benpoint)"
     ],
     "3011": [
         "(+2 benpoint)"
+    ],
+    "3052": [],
+    "3054": [],
+    "3120": [
+        "(+1 clinton)",
+        "(+1 clinton)"
+    ],
+    "3134": [
+        "(+1 clinton)",
+        "(+1 clinton)"
     ]
 }
 
